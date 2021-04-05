@@ -1,0 +1,1 @@
+把winico文件夹复制到python安装目录\tcl下

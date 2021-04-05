@@ -1,0 +1,2 @@
+把winico文件夹复制到python安装目录\tcl下；
+背景图片名称必须是wallpaper，支持jpg和png格式。
